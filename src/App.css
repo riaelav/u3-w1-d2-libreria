@@ -1,0 +1,8 @@
+.footer-container {
+  background-color: rgb(53, 123, 193);
+  position: sticky;
+}
+
+footer li {
+  list-style: none;
+}
