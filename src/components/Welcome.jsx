@@ -5,7 +5,7 @@ const Welcome = function () {
     <Container>
       <Row className="justify-content-center">
         <Col xs={12} md={10}>
-          <div className="d-flex justify-content-center align-items-center gap-3">
+          <div className="rust-text d-flex justify-content-center align-items-center gap-3">
             <h1>Epibooks</h1>
             <p className="m-0">Your Epic Bookstore!</p>
           </div>
