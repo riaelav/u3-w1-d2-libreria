@@ -13,7 +13,7 @@ const AllTheBooks = function () {
               <Card.Body>
                 <Card.Title className="title text-truncate fs-6">{book.title}</Card.Title>
                 <Card.Text>{book.category}</Card.Text>
-                <Button variant="primary">Compra ora</Button>
+                <Button className="rust-button">Compra ora</Button>
               </Card.Body>
             </Card>
           </Col>

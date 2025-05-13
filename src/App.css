@@ -78,3 +78,21 @@ footer li {
   color: #ffe4c4;
   text-decoration: underline;
 }
+
+.rust-button {
+  background-color: #b7410e;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  border: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.rust-button:hover {
+  background-color: #93350b;
+  color: #ffe4c4;
+  text-decoration: underline;
+}

@@ -11,7 +11,9 @@ const Welcome = function () {
           </div>
         </Col>
       </Row>
-      <Alert variant="warning">Scorri per vedere i nostri libri</Alert>
+      <Alert variant="warning" className="text-center">
+        Scorri per vedere i nostri libri
+      </Alert>
     </Container>
   );
 };
